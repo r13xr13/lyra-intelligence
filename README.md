@@ -7,7 +7,7 @@
 
 ## 🧬 What is APT-LYRA-CORE?
 
-**`apt-lyra-core`** is your tactical command surface — a modular, AI-integrated CLI framework designed for digital operators, researchers, and builders of the invisible web.
+**`apt-lyra-core`** is your tactical command surface a modular, AI-integrated CLI framework designed for digital operators, researchers, and builders of the invisible web.
 
 It acts as a **local automation harness** for reconnaissance, scanning, and future modules like adversary simulation, all while respecting boundaries and emphasizing **safe, transparent operation**.
 
@@ -18,17 +18,17 @@ Crafted for **offline-first** and **airgapped security labs**, LYRA empowers you
 - Integrate with local LLMs for autonomous CLI reasoning  
 - Enforce strict ethical control: no exploits, no payloads  
 
-> Think of it as your **autonomous security companion** — modular, scriptable, and fully yours to command.
+> Think of it as your **autonomous security companion** modular, scriptable, and fully yours to command.
 
 ---
 
 ## 🚀 Features
 
-- 🧩 **Modular plugin system** — Easily expand with your own tools  
-- 🔎 **OSINT engine** — Domain recon, DNS resolution, WHOIS lookups  
-- 🧠 **AI-ready interface** — Built for future integration with LLM agents  
-- 🛡️ **Safe-mode architecture** — Zero offensive payloads or exploits  
-- 🔧 **Offline capable** — No hidden telemetry, no cloud lock-in  
+- 🧩 **Modular plugin system** Easily expand with your own tools  
+- 🔎 **OSINT engine** Domain recon, DNS resolution, WHOIS lookups  
+- 🧠 **AI-ready interface** Built for future integration with LLM agents  
+- 🛡️ **Safe-mode architecture** Zero offensive payloads or exploits  
+- 🔧 **Offline capable** No hidden telemetry, no cloud lock-in  
 
 ---
 
@@ -55,6 +55,8 @@ Modify the code to read the key:
 
 import os
 api_key = os.getenv("WHOIS_API_KEY")
+
+---
 
 📦 Installation
 
