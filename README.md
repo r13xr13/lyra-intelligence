@@ -1,6 +1,6 @@
 # apt‑lyra‑core
 
-> 🤖 **AI-Powered Automation Framework** — Ethical automation and modular CLI built for local security workflows.
+> 🤖 **AI-Powered Automation Framework**  Ethical automation and modular CLI built for local security workflows.
 
 ## 🚀 Features
 - Modular plugin system
