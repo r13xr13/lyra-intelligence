@@ -7,7 +7,7 @@
 
 ## 🧬 What is APT-LYRA-CORE?
 
-**`apt-lyra-core`** is your tactical command surface a modular, AI-integrated CLI framework designed for digital operators, researchers, and builders of the invisible web.
+**`apt-lyra-core`** is your tactical command surface a modular, AI-integrated CLI framework designed for professional operators, researchers, devs, and security detals.
 
 It acts as a **local automation harness** for reconnaissance, scanning, and future modules like adversary simulation, all while respecting boundaries and emphasizing **safe, transparent operation**.
 
@@ -16,7 +16,7 @@ Crafted for **offline-first** and **airgapped security labs**, LYRA empowers you
 - Run OSINT tasks without browser clutter  
 - Build, load, and extend plugins for new workflows  
 - Integrate with local LLMs for autonomous CLI reasoning  
-- Enforce strict ethical control: no exploits, no payloads  
+- Enforce strict ethical control: no exploits, no payloads (Exploits & Payloads Plugins are available for professional use only)
 
 > Think of it as your **autonomous security companion** modular, scriptable, and fully yours to command.
 
