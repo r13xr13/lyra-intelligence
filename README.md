@@ -36,7 +36,7 @@ Crafted for **offline-first** and **airgapped security labs**, LYRA empowers you
 
 > LYRA executing an OSINT recon
 
-![LYRA Recon Screenshot]()
+![LYRA Recon Screenshot](https://github.com/r13xr13/apt-lyra-core/commit/eb2248d4aeb6bba8cacc41372abdf5747c839c8b)
 
 🧩 Plugins active:
 - `osint`: Resolves domain, fetches WHOIS
