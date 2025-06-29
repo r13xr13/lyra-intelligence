@@ -38,15 +38,15 @@ Crafted for **offline-first** and **airgapped security labs**, LYRA empowers you
 
 ![LYRA Recon Screenshot](https://github.com/r13xr13/apt-lyra-core/commit/eb2248d4aeb6bba8cacc41372abdf5747c839c8b)
 
-🧩 Plugins active:
+- 🧩 Plugins active:
 - `osint`: Resolves domain, fetches WHOIS
 - `scan`: (extendable) for active service mapping
 
-💡 Command used:
+- 💡 Command used:
 ```bash
 PYTHONPATH=. python3 -m lyra.cli
 
-## 🔐 WHOIS API Key Required
+- 🔐 WHOIS API Key Required
 
 The OSINT module supports WHOIS lookups via [WhoisXMLAPI](https://user.whoisxmlapi.com/products), and **requires an API key**.
 
