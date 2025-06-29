@@ -34,9 +34,9 @@ Crafted for **offline-first** and **airgapped security labs**, LYRA empowers you
 
 ## 🔍 Live Recon in Action
 
-> LYRA executing an OSINT recon on `walmart.com` using embedded plugins inside the Exegol container runtime:
+> LYRA executing an OSINT recon
 
-![LYRA Recon Screenshot](https://raw.githubusercontent.com/r13xr13/apt-lyra-core/main/assets/lyra.png)
+![LYRA Recon Screenshot]()
 
 🧩 Plugins active:
 - `osint`: Resolves domain, fetches WHOIS
