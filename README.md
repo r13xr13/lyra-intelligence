@@ -32,6 +32,8 @@ Crafted for **offline-first** and **airgapped security labs**, LYRA empowers you
 
 ---
 
+https://github.com/r13xr13/apt-lyra-core/commit/eb2248d4aeb6bba8cacc41372abdf5747c839c8b
+
 ## 🔐 WHOIS API Key Required
 
 The OSINT module supports WHOIS lookups via [WhoisXMLAPI](https://user.whoisxmlapi.com/products), and **requires an API key**.
