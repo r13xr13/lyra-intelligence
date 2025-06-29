@@ -32,7 +32,19 @@ Crafted for **offline-first** and **airgapped security labs**, LYRA empowers you
 
 ---
 
-https://github.com/r13xr13/apt-lyra-core/commit/eb2248d4aeb6bba8cacc41372abdf5747c839c8b
+## 🔍 Live Recon in Action
+
+> LYRA executing an OSINT recon on `walmart.com` using embedded plugins inside the Exegol container runtime:
+
+![LYRA Recon Screenshot](https://raw.githubusercontent.com/r13xr13/apt-lyra-core/main/assets/lyra.png)
+
+🧩 Plugins active:
+- `osint`: Resolves domain, fetches WHOIS
+- `scan`: (extendable) for active service mapping
+
+💡 Command used:
+```bash
+PYTHONPATH=. python3 -m lyra.cli
 
 ## 🔐 WHOIS API Key Required
 
