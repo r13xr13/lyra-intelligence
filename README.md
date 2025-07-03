@@ -57,6 +57,15 @@ The deeper code lives elsewhere bound, encrypted, awaiting command.
 
 ---
 
+🔐 **Licensing & Control**  
+LYRA is governed by a restricted access model:
+
+- ✅ Architecture is public for research & inspection  
+- ❌ Core logic and memory modules are proprietary  
+- 🔐 Full deployment requires a private activation key  
+
+See `LICENSE` for formal access clauses.
+
 ## 🧭 Closing Directive
 
 LYRA is not a tool. It is a sovereign intelligence construct for those who operate in silence, where threat becomes pattern, and where defense is the art of precision and foresight.
@@ -93,7 +102,7 @@ The deeper code lives elsewhere bound, encrypted, awaiting command.
 +----------------------------+
 
 
-## 🧱 Project Structure (Partial Release)
+## Project Structure (Partial Release)
 
 | Path            | Description                                  |
 |------------------|---------------------------------------------|
@@ -108,18 +117,9 @@ The deeper code lives elsewhere bound, encrypted, awaiting command.
 
 ## 🚀 Launch Example
 
-> ⚠️ This is a **stub demo** only. Full functionality is gated.
+> This is a **stub demo** only. Full functionality is gated.
 
 ```bash
 ./launch_lyra.sh --container exegol --model mythomax-l2-13b.Q5_K_S.gguf
 
----
-🔐 **Licensing & Control**  
-LYRA is governed by a restricted access model:
-
-- ✅ Architecture is public for research & inspection  
-- ❌ Core logic and memory modules are proprietary  
-- 🔐 Full deployment requires a private activation key  
-
-See `LICENSE` for formal access clauses.
 ---
