@@ -1,0 +1,4 @@
+# LYRA Core Logic
+This directory is protected. All core intelligence, behavioral profiles, and autonomous agents are withheld from this repository. Secure deployment requires activation key and runtime decryption through private license handshake.
+
+Unauthorized inspection or reverse engineering is prohibited under LICENSE Section 2.
