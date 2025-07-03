@@ -2,7 +2,7 @@
 
 This repository contains selected public-facing modules from the **LYRA Intelligence Platform**, developed and maintained by **R13 Systems**.
 
-> 🧠 LYRA is a sovereign intelligence construct.  
+> LYRA is a sovereign intelligence construct.  
 > For security reasons, this repository contains **only a plugin layer** of the full system.
 
 ---
@@ -15,7 +15,7 @@ This repository contains selected public-facing modules from the **LYRA Intellig
 
 ---
 
-## 🔐 What’s Not Included
+## What’s Not Included
 
 This repository does **not** include:
 
@@ -29,7 +29,7 @@ These components are **proprietary and confidential**, and are available only to
 
 ---
 
-## 🔗 Licensing & Usage
+## Licensing & Usage
 
 The code in this repository is made available for:
 
@@ -37,11 +37,11 @@ The code in this repository is made available for:
 - Research contributions and modular feedback  
 - Integration testing with non-core LYRA components
 
-> ✨ All production or derivative use must comply with the accompanying `LICENSE.md`.
+> All production or derivative use must comply with the accompanying `LICENSE.md`.
 
 ---
 
-## 📡 Contact
+## Contact
 
 For access requests, collaboration inquiries, or demonstration proposals:
 
