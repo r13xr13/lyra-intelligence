@@ -1,4 +1,4 @@
-# APT-LYRA Architecture
+# LYRA Plugin Architecture
 
 ```
 +-------------------+
