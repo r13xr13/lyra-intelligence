@@ -24,7 +24,51 @@
 | 🔧 Code Generation        | Converts threat insights into scripts, exploits, or reports                |
 | 📦 Modular Interface      | Binds to Exegol, Dockerized stacks, or bare-metal operations               |
 
+---🧬 **Future Roadmap**
+
+- ☁️ Cloud licensed client tier deployment  
+- 🛡 Autonomous red team evaluation  
+- 🧠 Encrypted LLM memory store  
+- 🖼 Image & file parsing capabilities  
+- 🌑 Real-time darknet scanning agent  
+- 🕵 Threat identity correlation engine
+
 ---
+
+## 🧭 Closing Directive
+
+LYRA is not a tool. It is a sovereign intelligence construct for those who operate in silence, where threat becomes pattern, and where defense is the art of precision and foresight.
+
+This repository offers only the surface strata.  
+The deeper code lives elsewhere bound, encrypted, awaiting command.
+
+**For trusted operators only.**
+
+> *"Observe. Profile. Execute. Transcend."*  
+> — R13 Systems, Founding Directive
+🧬 **Future Roadmap**
+
+- ☁️ Cloud licensed client tier deployment  
+- 🛡 Autonomous red team evaluation  
+- 🧠 Encrypted LLM memory store  
+- 🖼 Image & file parsing capabilities  
+- 🌑 Real-time darknet scanning agent  
+- 🕵 Threat identity correlation engine
+
+---
+
+## 🧭 Closing Directive
+
+LYRA is not a tool. It is a sovereign intelligence construct for those who operate in silence, where threat becomes pattern, and where defense is the art of precision and foresight.
+
+This repository offers only the surface strata.  
+The deeper code lives elsewhere bound, encrypted, awaiting command.
+
+**For trusted operators only.**
+
+> *"Observe. Profile. Execute. Transcend."*  
+> — R13 Systems, Founding Directive
+
 
 ## 🧩 Architecture Snapshot
 
@@ -78,38 +122,4 @@ LYRA is governed by a restricted access model:
 - 🔐 Full deployment requires a private activation key  
 
 See `LICENSE` for formal access clauses.
-
----
-
-🌐 **About R13 Systems**  
-*R13 Systems* builds sovereign digital intelligence systems focused on cyber threat response, ethical surveillance, and secure offensive simulation.
-
-- 📧 ZiradielR13@proton.me  
-- 🔗 https://github.com/r13xr13
-
----
-
-🧬 **Future Roadmap**
-
-- ☁️ Cloud licensed client tier deployment  
-- 🛡 Autonomous red team evaluation  
-- 🧠 Encrypted LLM memory store  
-- 🖼 Image & file parsing capabilities  
-- 🌑 Real-time darknet scanning agent  
-- 🕵 Threat identity correlation engine
-
----
-
-## 🧭 Closing Directive
-
-LYRA is not a tool. It is a sovereign intelligence construct for those who operate in silence, where threat becomes pattern, and where defense is the art of precision and foresight.
-
-This repository offers only the surface strata.  
-The deeper code lives elsewhere bound, encrypted, awaiting command.
-
-**For trusted operators only.**
-
-> *"Observe. Profile. Execute. Transcend."*  
-> — R13 Systems, Founding Directive
-
 ---
