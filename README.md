@@ -1,124 +1,115 @@
-# apt‑lyra‑core
+# LYRA Intelligence | R13 Systems
 
-> 🤖 **AI-Enhanced Operator Framework**  
-> A modular command-line intelligence system built for cybernetic workflows, ethical automation, and autonomous recon operations.
-
----
-
-## 🧬 What is APT-LYRA-CORE?
-
-**`apt-lyra-core`** is your tactical command surface a modular, AI-integrated CLI framework designed for professional operators, researchers, devs, and security detals.
-
-It acts as a **local automation harness** for reconnaissance, scanning, and future modules like adversary simulation, all while respecting boundaries and emphasizing **safe, transparent operation**.
-
-Crafted for **offline-first** and **airgapped security labs**, LYRA empowers you to:
-
-- Run OSINT tasks without browser clutter  
-- Build, load, and extend plugins for new workflows  
-- Integrate with local LLMs for autonomous CLI reasoning  
-- Enforce strict ethical control: no exploits, no payloads (Exploit & Payload Plugins are available for professional use only)
-
-> Think of it as your **autonomous security companion** modular, scriptable, and fully yours to command.
+> Autonomous Cyber Intelligence  
+> Pattern Seeker • Threat Profiler • Sovereign Execution Engine  
 
 ---
 
-## 🚀 Features
+## 🔍 Overview
 
-- 🧩 **Modular plugin system** Easily expand with your own tools  
-- 🔎 **OSINT engine** Domain recon, DNS resolution, WHOIS lookups  
-- 🧠 **AI-ready interface** Built for future integration with LLM agents  
-- 🛡️ **Safe-mode architecture** Zero offensive payloads or exploits  
-- 🔧 **Offline capable** No hidden telemetry, no cloud lock-in  
+**LYRA** is an advanced cyber intelligence platform engineered by **R13 Systems** to empower cybersecurity professionals, red teams, and trusted operators. It is designed to identify, profile, and respond to digital threats with tactical precision capable of both defense and simulated offense within a modular, secure execution zone.
+
+> LYRA is not a script. It is an Operator class entity.
 
 ---
 
-## 🔍 Live Recon in Action
+## ⚙️ Core Capabilities
 
-> LYRA executing an OSINT recon
+| Capability                | Description                                                                |
+|---------------------------|----------------------------------------------------------------------------|
+| 🔒 Threat Profiling       | Behavioral fingerprinting and network persona reconstruction               |
+| ⚔ Offensive Simulation    | Simulated intrusions, payload delivery, and evasion profiling              |
+| 🛰 LLM Recon Agent        | Uses embedded models to analyze, scan, and generate actionable intelligence|
+| 🧬 Roleplay & Simulation  | Synthetic adversary modeling and defense training                          |
+| 🔧 Code Generation        | Converts threat insights into scripts, exploits, or reports                |
+| 📦 Modular Interface      | Binds to Exegol, Dockerized stacks, or bare-metal operations               |
 
-![LYRA Recon Screenshot](https://github.com/r13xr13/apt-lyra-core/commit/eb2248d4aeb6bba8cacc41372abdf5747c839c8b)
+---
 
-- 🧩 Plugins active:
-- `osint`: Resolves domain, fetches WHOIS
-- `scan`: (extendable) for active service mapping
+## 🧩 Architecture Snapshot
 
-- 💡 Command used:
+```text
++----------------------------+
+| Host (Ubuntu 24.04)       |
+| - llama.cpp               |
+| - gguf models             |
++----------------------------+
+        │
+        ▼
++----------------------------+
+| Secure Container Layer    |
+| - Exegol / Kali / Docker  |
++----------------------------+
+        │
+        ▼
++----------------------------+
+| LYRA Core Engine          |
+| - Agents, memory, tools   |
+| - LLM orchestration       |
++----------------------------+
+
+
+## 🧱 Project Structure (Partial Release)
+
+| Path            | Description                                  |
+|------------------|---------------------------------------------|
+| `/models`        | Local model storage (excluded from repo)    |
+| `/llama.cpp`     | Fast LLM inference backend                  |
+| `/core`          | [REDACTED] Memory, agents, orchestration    |
+| `/scripts`       | Interface, automation, tool wrappers        |
+| `/config`        | Chat templates, system prompts              |
+| `/docs`          | Diagrams, architecture vision               |
+
+---
+
+## 🚀 Launch Example
+
+> ⚠️ This is a **stub demo** only. Full functionality is gated.
+
 ```bash
-PYTHONPATH=. python3 -m lyra.cli
+./launch_lyra.sh --container exegol --model mythomax-l2-13b.Q5_K_S.gguf
 
-- 🔐 WHOIS API Key Required
+---
+🔐 **Licensing & Control**  
+LYRA is governed by a restricted access model:
 
-The OSINT module supports WHOIS lookups via [WhoisXMLAPI](https://user.whoisxmlapi.com/products), and **requires an API key**.
+- ✅ Architecture is public for research & inspection  
+- ❌ Core logic and memory modules are proprietary  
+- 🔐 Full deployment requires a private activation key  
 
-### ⚙️ How to enable WHOIS:
-
-1. Register and obtain your free or paid API key from WhoisXMLAPI  
-2. Open `lyra/plugins/osint.py`  
-3. Replace the placeholder inside the `whois()` method:
-
-```python
-api_key = "YOUR_API_KEY_HERE"
-
-(Optional) For safer key handling:
-
-Export your key as an environment variable:
-
-export WHOIS_API_KEY="your_actual_key"
-
-Modify the code to read the key:
-
-import os
-api_key = os.getenv("WHOIS_API_KEY")
+See `LICENSE` for formal access clauses.
 
 ---
 
-📦 Installation
+🌐 **About R13 Systems**  
+*R13 Systems* builds sovereign digital intelligence systems focused on cyber threat response, ethical surveillance, and secure offensive simulation.
 
-git clone https://github.com/r13xr13/apt-lyra-core.git
-cd apt-lyra-core
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+- 📧 ZiradielR13@proton.me  
+- 🔗 https://github.com/r13xr13
 
-⚡ Usage
+---
 
-Start the CLI interface:
+🧬 **Future Roadmap**
 
-PYTHONPATH=. python3 -m lyra.cli
+- ☁️ Cloud licensed client tier deployment  
+- 🛡 Autonomous red team evaluation  
+- 🧠 Encrypted LLM memory store  
+- 🖼 Image & file parsing capabilities  
+- 🌑 Real-time darknet scanning agent  
+- 🕵 Threat identity correlation engine
 
-Once inside the lyra> shell, try:
+---
 
-osint recon example.com
-osint resolve example.com
-osint whois example.com
+## 🧭 Closing Directive
 
-🧠 Extend It
+LYRA is not a tool. It is a sovereign intelligence construct for those who operate in silence, where threat becomes pattern, and where defense is the art of precision and foresight.
 
-The plugins/ directory is yours. Clone an existing module, rename it, and add your custom logic.
+This repository offers only the surface strata.  
+The deeper code lives elsewhere bound, encrypted, awaiting command.
 
-To create a new plugin:
+**For trusted operators only.**
 
-Add a Python file in lyra/plugins/
+> *"Observe. Profile. Execute. Transcend."*  
+> — R13 Systems, Founding Directive
 
-Define a Plugin class with a handle(self, cmd) method
-
-LYRA will auto-load and dispatch it at startup
-
-📡 Coming Soon
-
-Autonomous GPT-based recon flows
-
-Real-time vulnerability triage from local logs
-
-Threat actor pattern matching
-
-CLI-triggered browserless crawling
-
-🧭 Philosophy
-
-LYRA is built for agency and transparency.
-You control the stack.
-You own the data.
-You shape the intelligence.
-
--r13
+---
