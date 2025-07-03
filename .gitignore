@@ -1,4 +1,4 @@
-# 🧠 Python Artifacts
+# Python Artifacts
 __pycache__/
 *.py[cod]
 *.so
@@ -7,12 +7,12 @@ __pycache__/
 *.pyd
 *.log
 
-# 🧪 Virtual Envs
+# Virtual Envs
 .venv/
 venv/
 .env/
 
-# ⚙️ Compiled Objects & Build Cache
+# Compiled Objects & Build Cache
 /build/
 /dist/
 *.o
@@ -22,7 +22,7 @@ venv/
 *.bc
 *.dSYM/
 
-# 🔐 Secrets, Configs & Keys
+# Secrets, Configs & Keys
 *.key
 *.pem
 *.crt
@@ -32,7 +32,7 @@ venv/
 /config/private/
 /config/*.secrets
 
-# 🤖 LLM Models & Training Files
+# LLM Models & Training Files
 *.gguf
 *.bin
 *.pth
@@ -42,14 +42,14 @@ venv/
 /weights/
 /checkpoints/
 
-# 🐳 Container Artifacts
+# Container Artifacts
 .docker/
 **/.dockerignore
 **/Dockerfile.*
 docker-compose.override.yml
 docker-compose.local.yml
 
-# 🛠 IDE/Editor Settings
+# IDE/Editor Settings
 .DS_Store
 Thumbs.db
 .vscode/
@@ -59,13 +59,18 @@ Thumbs.db
 *.bak
 *.tmp
 
-# 💾 Internal & Persistent Mounts (classified)
-#/mnt/vault
+# Internal & Persistent Mounts (Classified)
+/mnt/vault/
+/mnt/vault/*
+!/mnt/vault/.keep
 
-# 🔐 Internal Control Files
+/mnt/lyramem/
+/mnt/lyramem/*
+!/mnt/lyramem/.keep
+
+# Internal Control Files
 activation.key
 launch_lyra.log
 *.pid
-*.log
 logs/
 tmp/
