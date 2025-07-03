@@ -1,4 +1,4 @@
-# 🧠 LYRA Architecture Overview
+# LYRA Architecture Overview
 
 LYRA is a modular cyber intelligence framework. This document outlines the public-facing structure.
 
