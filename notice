@@ -1,0 +1,54 @@
+# NOTICE
+
+This repository contains selected public-facing modules from the **LYRA Intelligence Platform**, developed and maintained by **R13 Systems**.
+
+> 🧠 LYRA is a sovereign intelligence construct.  
+> For security reasons, this repository contains **only a plugin layer** of the full system.
+
+---
+
+## 🔍 What This Repo Includes
+
+- Partial utilities, OSINT scaffolding, and interface components  
+- Plugin scripts intended for external integration  
+- Public research tools for broader cybersecurity experimentation
+
+---
+
+## 🔐 What’s Not Included
+
+This repository does **not** include:
+
+- Core agent orchestration logic  
+- LYRA’s sovereign memory or behavioral telemetry modules  
+- Encrypted model routing or multi-agent coordination layers  
+- Secure activation mechanisms, LLM payload infrastructure  
+- Autonomous or offensive simulation capabilities
+
+These components are **proprietary and confidential**, and are available only to **trusted operators** within secured deployment contexts.
+
+---
+
+## 🔗 Licensing & Usage
+
+The code in this repository is made available for:
+
+- Technical review and educational purposes  
+- Research contributions and modular feedback  
+- Integration testing with non-core LYRA components
+
+> ✨ All production or derivative use must comply with the accompanying `LICENSE.md`.
+
+---
+
+## 📡 Contact
+
+For access requests, collaboration inquiries, or demonstration proposals:
+
+**Operator r13**  
+📧 [ZiradielR13@proton.me](mailto:ZiradielR13@proton.me)  
+🔗 [https://github.com/r13xr13](https://github.com/r13xr13)
+
+---
+
+© 2025 R13 Systems. All rights reserved.
