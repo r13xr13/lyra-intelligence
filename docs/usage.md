@@ -1,4 +1,4 @@
-# APT-LYRA Usage
+# LYRA Plugin Usage
 
 ### Run the CLI:
 ```bash
