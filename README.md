@@ -37,7 +37,7 @@
 
 ## 🧭 Closing Directive
 
-LYRA is not a tool. It is a sovereign intelligence construct for those who operate in silence, where threat becomes pattern, and where defense is the art of precision and foresight.
+LYRA is not just a tool. It is a sovereign intelligence construct for those who operate in silence, where threat becomes pattern, and where defense is the art of precision and foresight.
 
 This repository offers only the surface strata.  
 The deeper code lives elsewhere bound, encrypted, awaiting command.
@@ -58,10 +58,6 @@ LYRA is governed by a restricted access model:
 - 🔐 Full deployment requires a private activation key  
 
 See `LICENSE` for formal access clauses.
-
-## 🧭 Closing Directive
-
-LYRA is not a tool. It is a sovereign intelligence construct for those who operate in silence, where threat becomes pattern, and where defense is the art of precision and foresight.
 
 ---
 
