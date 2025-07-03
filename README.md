@@ -46,18 +46,11 @@ The deeper code lives elsewhere bound, encrypted, awaiting command.
 
 > *"Observe. Profile. Execute. Transcend."*  
 > — R13 Systems, Founding Directive
-🧬 **Future Roadmap**
-
-- ☁️ Cloud licensed client tier deployment  
-- 🛡 Autonomous red team evaluation  
-- 🧠 Encrypted LLM memory store  
-- 🖼 Image & file parsing capabilities  
-- 🌑 Real-time darknet scanning agent  
-- 🕵 Threat identity correlation engine
 
 ---
 
-🔐 **Licensing & Control**  
+🔐 **Licensing & Control**
+
 LYRA is governed by a restricted access model:
 
 - ✅ Architecture is public for research & inspection  
@@ -70,14 +63,7 @@ See `LICENSE` for formal access clauses.
 
 LYRA is not a tool. It is a sovereign intelligence construct for those who operate in silence, where threat becomes pattern, and where defense is the art of precision and foresight.
 
-This repository offers only the surface strata.  
-The deeper code lives elsewhere bound, encrypted, awaiting command.
-
-**For trusted operators only.**
-
-> *"Observe. Profile. Execute. Transcend."*  
-> — R13 Systems, Founding Directive
-
+---
 
 ## 🧩 Architecture Snapshot
 
