@@ -109,3 +109,5 @@ LYRA is not a tool. It is a sovereign intelligence construct for those who opera
 ./launch_lyra.sh --container exegol --model mythomax-l2-13b.Q5_K_S.gguf
 
 ---
+
+The OSINT plugin is part of the LYRA ecosystem. Core agent, orchestration, and memory modules are confidential and not included.
