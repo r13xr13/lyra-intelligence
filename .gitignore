@@ -1,3 +1,71 @@
-venv/
+# 🧠 Python Artifacts
 __pycache__/
-*.pyc
+*.py[cod]
+*.so
+*.egg-info/
+*.pyo
+*.pyd
+*.log
+
+# 🧪 Virtual Envs
+.venv/
+venv/
+.env/
+
+# ⚙️ Compiled Objects & Build Cache
+/build/
+/dist/
+*.o
+*.a
+*.out
+*.ll
+*.bc
+*.dSYM/
+
+# 🔐 Secrets, Configs & Keys
+*.key
+*.pem
+*.crt
+*.env
+.env.*
+/secrets/
+/config/private/
+/config/*.secrets
+
+# 🤖 LLM Models & Training Files
+*.gguf
+*.bin
+*.pth
+*.pt
+*.ckpt
+/models/
+/weights/
+/checkpoints/
+
+# 🐳 Container Artifacts
+.docker/
+**/.dockerignore
+**/Dockerfile.*
+docker-compose.override.yml
+docker-compose.local.yml
+
+# 🛠 IDE/Editor Settings
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# 💾 Internal & Persistent Mounts (classified)
+#/mnt/vault
+
+# 🔐 Internal Control Files
+activation.key
+launch_lyra.log
+*.pid
+*.log
+logs/
+tmp/
