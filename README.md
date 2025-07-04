@@ -19,7 +19,7 @@
 |---------------------------|----------------------------------------------------------------------------|
 | 🔒 Threat Profiling       | Behavioral fingerprinting and network persona reconstruction               |
 | ⚔ Offensive Simulation    | Simulated intrusions, payload delivery, and evasion profiling              |
-| 🛰 LLM Recon Agent        | Uses embedded models to analyze, scan, and generate actionable intelligence|
+| 🛰 LLM Recon Agent         | Uses embedded models to analyze, scan, and generate actionable intelligence|
 | 🧬 Roleplay & Simulation  | Synthetic adversary modeling and defense training                          |
 | 🔧 Code Generation        | Converts threat insights into scripts, exploits, or reports                |
 | 📦 Modular Interface      | Binds to Exegol, Dockerized stacks, or bare-metal operations               |
@@ -108,5 +108,6 @@ See `LICENSE` for formal access clauses.
 
 ## ⚠️  Legacy Modules
 
-- `/osint-legacy/`: Archived OSINT plugin, preserved for historical reference.
+- `/osint-legacy/`: The OSINT plugin is part of the LYRA ecosystem.  
+  Core agent, orchestration, and memory modules are confidential and not included.
 
