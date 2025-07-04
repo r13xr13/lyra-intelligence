@@ -108,6 +108,5 @@ See `LICENSE` for formal access clauses.
 
 ## ⚠️  Legacy Modules
 
-- `/osint-legacy/`: Archived OSINT plugin, preserved for historical reference.  
-  Not actively maintained or supported.
+- `/osint-legacy/`: Archived OSINT plugin, preserved for historical reference.
 
