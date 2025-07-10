@@ -51,6 +51,9 @@ The deeper code lives elsewhere bound, encrypted, awaiting command.
 
 https://youtu.be/Z67kimXdNPQ?si=7Sdoov0lnoNxqe3T
 
+Reah out to us directly on Mastodon :
+https://infosec.exchange/@r13
+
 🔐 **Licensing & Control**
 
 LYRA is governed by a restricted access model:
