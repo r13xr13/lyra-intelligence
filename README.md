@@ -55,6 +55,10 @@ Reah out to us directly on Mastodon :
 
 https://infosec.exchange/@r13
 
+Join our Discord : 
+
+https://discord.gg/zfG57UNN
+
 🔐 **Licensing & Control**
 
 LYRA is governed by a restricted access model:
