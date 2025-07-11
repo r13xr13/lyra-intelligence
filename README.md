@@ -9,8 +9,6 @@
 
 **LYRA** is an advanced cyber intelligence platform engineered by **R13 Systems** to empower cybersecurity professionals, red teams, and trusted operators. It is designed to identify, profile, and respond to digital threats with tactical precision capable of both defense and simulated offense within a modular, secure execution zone.
 
-> LYRA is not a script. It is an Operator class entity.
-
 --- 
 
 ![Lyra Intelligence](https://github.com/r13xr13/lyra-intelligence/raw/main/Lyra%20Intelligence.png)
