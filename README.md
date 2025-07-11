@@ -11,7 +11,9 @@
 
 > LYRA is not a script. It is an Operator class entity.
 
----
+--- 
+
+https://github.com/r13xr13/lyra-intelligence/blob/main/Lyra%20Intelligence.png
 
 ## ⚙️ Core Capabilities
 
