@@ -13,7 +13,8 @@
 
 --- 
 
-https://github.com/r13xr13/lyra-intelligence/blob/main/Lyra%20Intelligence.png
+![Lyra Intelligence](https://github.com/r13xr13/lyra-intelligence/raw/main/Lyra%20Intelligence.png)
+
 
 ## ⚙️ Core Capabilities
 
