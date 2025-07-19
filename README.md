@@ -18,25 +18,25 @@
 
 | Capability                | Description                                                                |
 |---------------------------|----------------------------------------------------------------------------|
-| 🔒 Threat Profiling       | Behavioral fingerprinting and network persona reconstruction               |
-| ⚔ Offensive Simulation    | Simulated intrusions, payload delivery, and evasion profiling              |
-| 🛰 LLM Recon Agent         | Uses embedded models to analyze, scan, and generate actionable intelligence|
-| 🧬 Roleplay & Simulation  | Synthetic adversary modeling and defense training                          |
-| 🔧 Code Generation        | Converts threat insights into scripts, exploits, or reports                |
-| 📦 Modular Interface      | Binds to Exegol, Dockerized stacks, or bare-metal operations               |
+|  Threat Profiling       | Behavioral fingerprinting and network persona reconstruction               |
+|  Offensive Simulation   | Simulated intrusions, payload delivery, and evasion profiling              |
+|  LLM Recon Agent        | Uses embedded models to analyze, scan, and generate actionable intelligence|
+|  Roleplay & Simulation  | Synthetic adversary modeling and defense training                          |
+|  Code Generation        | Converts threat insights into scripts, exploits, or reports                |
+|  Modular Interface      | Binds to Exegol, Dockerized stacks, or bare-metal operations               |
 
----🧬 **Future Roadmap**
+--- **Future Roadmap**
 
-- ☁️ Cloud licensed client tier deployment  
-- 🛡 Autonomous red team evaluation  
-- 🧠 Encrypted LLM memory store  
-- 🖼 Image & file parsing capabilities  
-- 🌑 Real-time darknet scanning agent  
-- 🕵 Threat identity correlation engine
+- Cloud licensed client tier deployment  
+- Autonomous red team evaluation  
+- Encrypted LLM memory store  
+- Image & file parsing capabilities  
+- Real-time darknet scanning agent  
+- Threat identity correlation engine
 
 ---
 
-## 🧭 Closing Directive
+## Closing Directive
 
 LYRA is not just a tool. It is a sovereign intelligence construct for those who operate in silence, where threat becomes pattern, and where defense is the art of precision and foresight.
 
@@ -60,13 +60,13 @@ Join our Discord :
 
 https://discord.gg/zfG57UNN
 
-🔐 **Licensing & Control**
+**Licensing & Control**
 
 LYRA is governed by a restricted access model:
 
-- ✅ Architecture is public for research & inspection  
-- ❌ Core logic and memory modules are proprietary  
-- 🔐 Full deployment requires a private activation key  
+- Architecture is public for research & inspection  
+- Core logic and memory modules are proprietary  
+- Full deployment requires a private activation key  
 
 See `LICENSE` for formal access clauses.
 
