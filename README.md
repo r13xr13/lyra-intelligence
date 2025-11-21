@@ -49,8 +49,7 @@ The deeper code lives elsewhere bound, encrypted, awaiting command.
 > — R13 Systems, Founding Directive
 
 --- Check Lyra out in action on Youtube here : 
-
-https://youtu.be/Z67kimXdNPQ?si=7Sdoov0lnoNxqe3T
+https://youtu.be/o-EXhRs9ylw?si=i1RLvTOentZi4UWy
 
 Reach out to us directly on Mastodon :
 
