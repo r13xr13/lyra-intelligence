@@ -11,7 +11,7 @@
 
 --- 
 
-![Lyra Intelligence](https://github.com/r13xr13/lyra-intelligence/raw/main/Lyra%20Intelligence.png)
+![Helix Intelligence](https://github.com/r13xr13/lyra-intelligence/blob/main/Screenshot_21-Nov_00-19-54_31638.png)
 
 
 ## ⚙️ Core Capabilities
@@ -124,8 +124,6 @@ We took everything we learned from the PoC, burned it down, and rebuilt it from 
 
 After hundreds of hours of non-stop grinding, real-world testing, and brutal feedback 
 we’re proud to unleash **HELIX**.
-
-![Helix Intelligence](https://github.com/r13xr13/lyra-intelligence/blob/main/Screenshot_21-Nov_00-19-54_31638.png)
 
 ### This is not another cloud-dependent “agent framework.”  
 This is a weapon.
