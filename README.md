@@ -119,6 +119,46 @@ See `LICENSE` for formal access clauses.
 
 ## ⚠️  Legacy Modules
 
+######ATTENTION ***** >>>
+
+>>> HELIX – THE NEXT EVOLUTION IS HERE
+
+What started as Lyra Intelligence is now dead.  
+We took everything we learned from the PoC, burned it down, and rebuilt it from the ground up.
+
+After hundreds of hours of non-stop grinding, real-world testing, and brutal feedback from the community –  
+we’re proud to unleash **HELIX**.
+
+### This is not another cloud-dependent “agent framework.”  
+This is a weapon.
+
+**100% local · zero telemetry · air-gap ready · OPSEC-first**
+
+### Core Pillars
+- Runs entirely offline with quantized 13B–14B-class models (Mythomax-L2-13B & Qwen3-14B BaronLLM included)
+- Neo4j graph brain that remembers every target, IOC, credential, and lesson forever
+- Persistent JSON memory with schema validation and auto-learning
+- YAML-driven playbooks (red team, blue team, OSINT, IR, compliance – all included)
+- Asynchronous tool daemon with allow-listing, parsing, and automatic graph/memory ingestion
+- Full Kali tool integration (nmap, nuclei, gobuster, sherlock, whois, amass, etc.) – parsed and weaponized instantly
+- Live intel feeds (NVD, static IOCs, custom sources) with dynamic updating
+- Multiple operation modes: autonomous, supervised, production, live console
+- Zero internet required after initial setup – perfect for red cells, classified environments, or just pure paranoia
+
+### What people are already doing with it
+- Full autonomous OSINT profiling in < 15 minutes
+- CVE-driven attack path generation and execution
+- Incident response triage that writes the report for you
+- Persistent, multi-session campaign orchestration that never forgets
+
+This is the system we always wanted but nobody else built.
+
+The PoC got attention.  
+HELIX is going to break the internet.
+
+Welcome to the new era.
+
+
 - `/osint-legacy/`: The OSINT plugin is part of the LYRA ecosystem.  
   Core agent, orchestration, and memory modules are confidential and not included.
 
