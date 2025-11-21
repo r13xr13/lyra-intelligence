@@ -73,7 +73,8 @@ The deeper code lives elsewhere bound, encrypted, awaiting command.
 > *"Observe. Profile. Execute. Transcend."*  
 > — R13 Systems, Founding Directive
 
---- Check Lyra out in action on Youtube here : 
+--- Check Lyra out in action on Youtube here :
+
 https://youtu.be/o-EXhRs9ylw?si=i1RLvTOentZi4UWy
 
 Reach out to us directly on Mastodon :
