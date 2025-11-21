@@ -1,4 +1,4 @@
-# LYRA Intelligence | R13 Systems
+# HELIX Intelligence | R13 Systems
 
 > Autonomous Cyber Intelligence  
 > Pattern Seeker • Threat Profiler • Sovereign Execution Engine  
@@ -7,7 +7,8 @@
 
 ## 🔍 Overview
 
-**LYRA** is an advanced cyber intelligence platform engineered by **R13 Systems** to empower cybersecurity professionals, red teams, and trusted operators. It is designed to identify, profile, and respond to digital threats with tactical precision capable of both defense and simulated offense within a modular, secure execution zone.
+**LYRA** WAS an advanced cyber intelligence platform engineered by **R13 Systems** to empower cybersecurity professionals, red teams, and trusted operators. It is designed to identify, profile, and respond to digital threats with tactical precision capable of both defense and simulated offense within a modular, secure execution zone.
+**HELIX** Developed By RaidRabbit in Partnership with R13 Systems. Is a whole New beast. Fully contained in one Stack, 
 
 --- 
 
