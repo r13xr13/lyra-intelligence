@@ -122,8 +122,10 @@ See `LICENSE` for formal access clauses.
 What started as Lyra Intelligence is now dead.  
 We took everything we learned from the PoC, burned it down, and rebuilt it from the ground up.
 
-After hundreds of hours of non-stop grinding, real-world testing, and brutal feedback from the community –  
+After hundreds of hours of non-stop grinding, real-world testing, and brutal feedback 
 we’re proud to unleash **HELIX**.
+
+
 
 ### This is not another cloud-dependent “agent framework.”  
 This is a weapon.
