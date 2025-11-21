@@ -10,6 +10,38 @@
 **LYRA** WAS an advanced cyber intelligence platform engineered by **R13 Systems** to empower cybersecurity professionals, red teams, and trusted operators. It is designed to identify, profile, and respond to digital threats with tactical precision capable of both defense and simulated offense within a modular, secure execution zone.
 **HELIX** on the other hand, Developed By RaidRabbit in Partnership with R13 Systems. Is a whole New beast. Fully contained in one Stack
 
+
+██   ██╗███████╗██╗     ██╗██╗  ██╗
+██╔══██╗██╔════╝██║     ██║╚██╗██╔╝
+██████╔╝█████╗  ██║     ██║ ╚███╔╝
+██╔══██╗██╔══╝  ██║     ██║ ██╔██╗
+██║  ██║███████╗███████╗██║██╔╝ ██╗
+╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═╝
+
+            HELIX INTELLIGENCE
+          Autonomous Cyber Mind
+--------------------------------------------------
+
+**A Local AI-Powered Threat Intelligence Platform**
+Built for operators who demand sovereignty, precision,  
+and zero external dependencies.
+
+**Why HELIX?**
+- Offline by design  
+- 145+ integrated tools  
+- Multi-model AI brain  
+- Graph intelligence mapping  
+- Live playbook generation  
+- Persistent memory for campaigns  
+- Full incident-response automation pipeline  
+
+**HELIX Thinks.  
+HELIX Watches.  
+HELIX Correlates.**  
+All within your machine—never beyond it.
+
+--------------------------------------------------
+
 --- 
 
 ![Helix Intelligence](https://github.com/r13xr13/lyra-intelligence/blob/main/Screenshot_21-Nov_00-19-54_31638.png)
