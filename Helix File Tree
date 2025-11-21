@@ -1,0 +1,183 @@
+root@8ca9c1b6a6ac:/# ls
+bin   dev  home  lib32  media  opt   root  sbin  sys  usr
+boot  etc  lib   lib64  mnt    proc  run   srv   tmp  var
+root@8ca9c1b6a6ac:/# cd opt
+root@8ca9c1b6a6ac:/opt# ls
+AutoBlue-MS17-010  EternalBlueC  helix  llama.cpp  microsoft  sherlock
+root@8ca9c1b6a6ac:/opt# cd helix
+root@8ca9c1b6a6ac:/opt/helix# ls
+chains                            helix_enhanced.txt
+decision_scorer.sh                helix_live_console.sh
+extract_json.sh                   helix_live_intel.sh
+feeds                             helix_memory.json
+fix_execution.sed                 helix_memory.json.tmp
+graph.db                          helix_optimized.sh
+graph.db.bak.1763700354           helix_real_intel.sh
+graph.db.bak.1763737768           helix_static_intel.sh
+graph.db.bak.1763737930           helix_static_intel.txt
+graph_query.sh                    helix_supervised.sh
+graph_summary.txt                 helix_supervised_fixed.sh
+helix.txt                         helix_supervised_working.sh
+helix_autonomous.sh               hooks
+helix_chain_runner.sh             install_perfection.sh
+helix_chat.jinja                  mythomax-l2-13b.Q4_K_S.gguf
+helix_chat_proper.jinja           mythomax-l2-13b.Q5_K_S.gguf
+helix_control.sh                  parsers
+helix_control.sh.backup           playbooks
+helix_control.sh.backup.final     queue_tool.sh
+helix_control.sh.backup.final2    qwen3-14b-baronllm-v2-q4_0.gguf
+helix_control.sh.backup.menu_fix  recommend_action.sh
+helix_control.sh.backup.syntax    setup_graph_db.sh
+helix_control_beautiful.sh        system_prompt.txt
+helix_control_final.sh            templates
+helix_control_integrated.sh       tools
+helix_control_production.sh       update_graph_summary.sh
+helix_control_realistic.sh        update_intel.sh
+helix_control_with_intel.sh       validate_json.sh
+helix_dynamic_intel.txt           validate_json_enhanced.sh
+root@8ca9c1b6a6ac:/opt/helix# tree
+.
+├── chains
+├── decision_scorer.sh
+├── extract_json.sh
+├── feeds
+│   ├── aggregate_cves.sh
+│   ├── all_cves.ndjson
+│   ├── fetch_real_nvd.sh
+│   ├── generate_kali_tools.sh
+│   ├── kali_executables.txt
+│   ├── kali_executables_full.txt
+│   ├── kali_installed_pkgs.txt
+│   ├── kali_tools.meta
+│   ├── memory_append.sh
+│   ├── memory_load.sh
+│   ├── static_cves.txt
+│   ├── static_iocs.txt
+│   ├── static_malware.txt
+│   ├── threat_intel_working.sh
+│   ├── update_nvd.sh
+│   └── update_nvd_working.sh
+├── fix_execution.sed
+├── graph.db
+├── graph.db.bak.1763700354
+├── graph.db.bak.1763737768
+├── graph.db.bak.1763737930
+├── graph_query.sh
+├── graph_summary.txt
+├── helix.txt
+├── helix_autonomous.sh
+├── helix_chain_runner.sh
+├── helix_chat.jinja
+├── helix_chat_proper.jinja
+├── helix_control.sh
+├── helix_control.sh.backup
+├── helix_control.sh.backup.final
+├── helix_control.sh.backup.final2
+├── helix_control.sh.backup.menu_fix
+├── helix_control.sh.backup.syntax
+├── helix_control_beautiful.sh
+├── helix_control_final.sh
+├── helix_control_integrated.sh
+├── helix_control_production.sh
+├── helix_control_realistic.sh
+├── helix_control_with_intel.sh
+├── helix_dynamic_intel.txt
+├── helix_enhanced.txt
+├── helix_live_console.sh
+├── helix_live_intel.sh
+├── helix_memory.json
+├── helix_memory.json.tmp
+├── helix_optimized.sh
+├── helix_real_intel.sh
+├── helix_static_intel.sh
+├── helix_static_intel.txt
+├── helix_supervised.sh
+├── helix_supervised_fixed.sh
+├── helix_supervised_working.sh
+├── hooks
+│   └── post_tool_hook.sh
+├── install_perfection.sh
+├── mythomax-l2-13b.Q4_K_S.gguf
+├── mythomax-l2-13b.Q5_K_S.gguf
+├── parsers
+│   ├── parse_creds.sh
+│   ├── parse_gobuster.sh
+│   ├── parse_nmap.sh
+│   └── parse_nuclei.sh
+├── playbooks
+│   ├── blue_team
+│   ├── compliance
+│   ├── incident_response
+│   ├── load_playbook.sh
+│   ├── osint
+│   │   └── complete_profile.yaml
+│   └── red_team
+│       └── cve_driven_attack.yaml
+├── queue_tool.sh
+├── qwen3-14b-baronllm-v2-q4_0.gguf
+├── recommend_action.sh
+├── setup_graph_db.sh
+├── system_prompt.txt
+├── templates
+│   ├── analyst.tpl
+│   ├── autonomous_agent.tpl
+│   ├── commander.tpl
+│   ├── default_params.json
+│   ├── exploit_walkthrough.tpl
+│   ├── log_triage.tpl
+│   ├── redteam_exercise.tpl
+│   └── strategist.tpl
+├── tools
+│   ├── allowlist.json
+│   ├── collaborative_commander.sh
+│   ├── collaborative_commander.sh.original
+│   ├── collaborative_commander_enhanced.sh
+│   ├── daemon.log
+│   ├── daemon_supervisor.log
+│   ├── daemon_supervisor.sh
+│   ├── graph_intelligence.sh
+│   ├── helix_run_tool_ui.sh
+│   ├── integrated_coordinator.sh
+│   ├── locks
+│   ├── memory_analyze.sh
+│   ├── memory_ingest.sh
+│   ├── memory_learn.sh
+│   ├── model_coordinator.py
+│   ├── model_orchestrator.sh
+│   ├── outputs
+│   ├── requests
+│   │   └── processed
+│   │       ├── collab_1763719103_3318461.json
+│   │       ├── collab_1763721561_3322788.json
+│   │       ├── helix_1763709998_4715.json
+│   │       ├── test_1763721479.json
+│   │       ├── test_healthcheck.json
+│   │       ├── test_request.json
+│   │       ├── test_request_01.json
+│   │       └── test_request_e2e.json
+│   ├── results
+│   │   ├── nmap_1763719104_10107.meta.json
+│   │   ├── nmap_1763719104_10107.out
+│   │   ├── nmap_helix_1763659566_22718.meta.json
+│   │   ├── nmap_helix_1763663420_6561.meta.json
+│   │   ├── sherlock_helix_1763709998_4715.out
+│   │   ├── whatweb_helix_1763663737_21721.meta.json
+│   │   ├── whois_1763721480_30858.meta.json
+│   │   ├── whois_1763721480_30858.out
+│   │   ├── whois_1763721562_6588.meta.json
+│   │   ├── whois_1763721562_6588.out
+│   │   ├── whois_1763737871_6732.meta.json
+│   │   ├── whois_1763737871_6732.out
+│   │   ├── whois_1763737963_31578.meta.json
+│   │   ├── whois_1763737963_31578.out
+│   │   ├── whois_helix_1762972471_7354.meta.json
+│   │   ├── whois_test_request_01.out
+│   │   └── whois_test_request_e2e.meta.json
+│   ├── run_tool.sh
+│   └── tool_runner_daemon.sh
+├── update_graph_summary.sh
+├── update_intel.sh
+├── validate_json.sh
+└── validate_json_enhanced.sh
+
+18 directories, 125 files
